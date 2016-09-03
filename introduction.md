@@ -3,4 +3,4 @@ I used to work with svn and tortoise and Git for individual rpojects but soon i 
 i hope learn a lot.
 Thanks in advance!
 
-I love Javascript and Jade :P
+I love Javascript and Jade more than anything :P
